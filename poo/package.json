@@ -1,0 +1,20 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.3",
+    "ascii-art": "^2.5.0",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.7"
+  }
+}
