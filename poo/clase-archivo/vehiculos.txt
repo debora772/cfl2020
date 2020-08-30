@@ -1,0 +1,2 @@
+camion,Maria Gonzalez,bvf548,polo,volkswagen,12
+moto,Juan Pere,avc466,zanella,zanella,250
